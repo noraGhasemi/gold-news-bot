@@ -8,7 +8,7 @@ Sources (both from Fair Economy, the company behind ForexFactory):
 Translation and gold-relevance filtering: Google Gemini API.
 All times are shown in Europe/Tallinn time (DST handled automatically).
 
-Designed to run every 15 minutes (e.g. GitHub Actions). State is kept in state.json.
+Designed to run every 30 minutes (e.g. GitHub Actions). State is kept in state.json.
 """
 
 import html
